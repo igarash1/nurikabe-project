@@ -1,5 +1,5 @@
 nurikabe_q.cpp :
-ぬりかべの問題の生成.
-良いパズルは今のところできない。
+This creates a nurikabe problem.
 
-nurikabe
+nurikabe_solver.cpp :
+This solves a nurikabe problem.
