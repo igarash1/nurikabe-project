@@ -1,3 +1,3 @@
-nurikabe_q.cpp : creates a nurikabe problem.
+nurikabe_q.cpp : creates nurikabe problems.
 
-nurikabe_solver.cpp : solves a nurikabe problem.
+nurikabe_solver.cpp : solves nurikabe problems.
